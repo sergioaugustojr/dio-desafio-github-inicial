@@ -1,0 +1,50 @@
+body {
+    background: bisque;
+    max-width: 900px;
+    margin: auto;
+}
+
+.lista_contatos {
+    list-style-type: none;
+    margin: 0px;
+    padding-left: 10px;
+}
+
+.secundario, .postagem {
+    font-size: 20px;
+    padding-left: 10px;
+}
+
+.principal {
+    color: blue;
+    margin: 0px;
+    margin-bottom: 15px;
+    padding-left: 10px;
+}
+.secundario {
+    color: orange;
+    margin: 0px;
+    margin-bottom: 15px;
+    padding-left: 10px;
+}
+.titulo_postagem {
+    color: green;
+    margin: 0px;
+    margin-bottom: 15px;
+    padding-left: 10px;
+}
+.postagem {
+    font-style: italic;
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 10px;
+    border: 3px solid;
+    margin: 0px;
+    margin-bottom: 15px;
+}
+.imagem {
+    padding: 10px;
+}
+.texto_simples {
+    padding: 10px;
+}
